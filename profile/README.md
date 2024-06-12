@@ -2,8 +2,9 @@
 ```We are a lab that leverages generative algorithims to solve problems across various modalaties.```
 
 ## Projects
-### CleverGAR
-Our Generative Art Recommendation System, CleverGAR, utilizes advanced AI techniques to curate and recommend unique artistic creations tailored to individual tastes.
+### CleverGARS
+Our Generative Art Recommendation System (GARS) uses real time user feedback to iteratively enhance the stable diffusion process. 
+We optimize satisfaction by backpropogating over prompts, producing stunning and relavent images.
 
 ### CleverChain
-CleverChain is a Platform-as-a-Service (PaaS) offering that provides sophisticated natural language reasoning capabilities. It enables developers to integrate complex language understanding into their applications seamlessly.
+CleverChain began with a collection of advanced Retrival Augmented Generation (RAG) Natural Language Agents. Together, these agents can provision and 
