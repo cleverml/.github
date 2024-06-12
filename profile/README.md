@@ -1,5 +1,4 @@
-# CleverML
-We are a lab that leverages generative algorithims to solve problems across various modalaties.
+**We are a lab that leverages generative algorithims to solve problems across various modalaties.**
 
 ## Projects
 ### CleverGAR
