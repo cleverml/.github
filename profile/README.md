@@ -3,7 +3,7 @@
 
 ## Projects
 ### CleverGARS
-Our Generative Art Recommendation System (GARS) uses live feedback to iteratively enhance the stable diffusion process. 
+Our Generative Art Recommendation System (GARS) uses live feedback to enhance the stable diffusion process. 
 We optimize satisfaction by backpropogating over prompts, producing stunning and relavent images.
 
 ### CleverChain
