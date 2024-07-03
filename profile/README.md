@@ -7,8 +7,9 @@ We aim to leverage generative algorithms to solve problems across various modali
 ### **CleverChain** 🤖
 A collection of **Retrieval Augmented Generation (RAG)** agents that work together to control a virtual development environment. **CleverChain** uses vision transformers, document loaders, and retrieval to sense its environment. It accesses a novel 'REPL' environment to execute code, run shell commands, and interact with browsers and GUIs.
 
-Demo:  
-https://github.com/cleverml/.github/assets/103453421/d2ea7969-183a-4f45-95a0-7f0e00251a0f
+Demo:
+
+https://github.com/cleverml/.github/assets/103453421/fb008cd3-6449-4533-9ae7-bac6367d83d7
 
 CleverChain breaks challenging requests down into sequences of tasks, iteratively enriching its context window with new information at each step.
 
