@@ -2,9 +2,7 @@
 
 We aim to leverage generative algorithms to solve problems across various modalities.
 
-## Projects
-
-### **CleverChain** 🤖
+## **CleverChain** 🤖
 A collection of **Retrieval Augmented Generation (RAG)** agents that work together to control a virtual development environment. **CleverChain** uses vision transformers, document loaders, and document retrival to interact with its surroundings. It uses a 'REPL' environment to execute code, run shell commands, and interact with browsers and GUIs.
 
 ### Interactive Plots / Data Analysis
@@ -17,5 +15,5 @@ CleverChain breaks requests down into sequences of tasks, iteratively enriching 
 
 <img width="702" alt="cleveragentcoreflow" src="https://github.com/cleverml/.github/assets/103453421/3a659956-0606-4bf4-b021-41e6ff3d3d1a">
 
-### **CleverGARS** 🎨
+## **GARS** 🎨
 Our **Generative Art Recommendation System (GARS)** uses live feedback to enhance the stable diffusion process. GARS produces stunning and relevant generative artwork by generating prompt embeddings and then performing informed vector space navigation.
