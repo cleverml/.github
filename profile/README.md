@@ -14,6 +14,3 @@ https://github.com/cleverml/.github/assets/103453421/fb008cd3-6449-4533-9ae7-bac
 CleverChain breaks requests down into sequences of tasks, iteratively enriching its context window with new information at each step.
 
 <img width="702" alt="cleveragentcoreflow" src="https://github.com/cleverml/.github/assets/103453421/3a659956-0606-4bf4-b021-41e6ff3d3d1a">
-
-## **GARS** 🎨
-Our **Generative Art Recommendation System (GARS)** uses live feedback to enhance the stable diffusion process. GARS produces stunning and relevant generative artwork by generating prompt embeddings and then performing informed vector space navigation.
